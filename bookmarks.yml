@@ -1,5 +1,5 @@
-Start:
-  - Personal:
+Personal:
+  - Tools:
     - ✉️ Gmail: https://mail.google.com/mail/u/0/#inbox
     - 📆 Google Calendar: https://calendar.google.com/
     - 🛍 Shopping List: https://web.getbring.com/app/lists/0
@@ -10,6 +10,16 @@ Start:
     - 🔧 Edit bookmarks: 
         - https://github.com/aerobless/bookmarks/edit/master/bookmarks.yml
         - Documentation: https://darekkay.com/static-marks/
+  - Finance:
+    - 📈 IBKR: https://ndcdyn.interactivebrokers.com/portal/#/
+    - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
+  - Home:
+    - 🤖 Home Assistant: https://sixtymeters.duckdns.org:8123/lovelace/overview
+    - 🎬 Plex: https://app.plex.tv/desktop/#!/
+  - Home Lab:
+    - 📶 Fritzbox: http://192.168.178.1/
+    - 🛠 Proxmox: https://192.168.178.2:8006/
+Work:
   - Zühlke:
     - ✉️ Outlook: https://outlook.office365.com/owa/?realm=zuehlke.com
     - 📊 Sharepoint: https://zuhlke.sharepoint.com/

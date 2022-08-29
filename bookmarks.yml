@@ -4,7 +4,8 @@ Start:
     - Calendar: https://calendar.google.com/
     - Shopping List: https://web.getbring.com/app/lists/0
     - Notion: https://notion.so
-    - GitBook: https://app.gitbook.com
+    - GitBook:
+        - https://app.gitbook.com
         - GitBook Public View: https://wiki.sixtymeters.com/
     - Edit bookmarks: https://github.com/aerobless/bookmarks/edit/master/bookmarks.yml
   - Zühlke:

@@ -15,7 +15,10 @@ Personal:
     - 📟 TIKR Terminal: https://app.tikr.com/markets?fid=1
     - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
   - Home:
-    - 🤖 Home Assistant: https://sixtymeters.duckdns.org:8123/lovelace/overview
+    - 🤖 Home Assistant: 
+        - https://sixtymeters.duckdns.org:8123/lovelace/overview
+        - Beta Release Notes: https://rc.home-assistant.io/latest-release-notes/
+        - My documentation: https://sixtymeters.com/
     - 🎬 Plex: https://app.plex.tv/desktop/#!/
   - Home Lab:
     - 📶 Fritzbox: http://192.168.178.1/

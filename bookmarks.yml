@@ -16,6 +16,7 @@ Personal:
     - 📉 Swissquote: https://trade.swissquote.ch/
     - 📟 TIKR Terminal: https://app.tikr.com/markets?fid=1
     - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
+    - 🦋 Firefly: https://sixtymeters2.duckdns.org/firefly
   - Home:
     - 🤖 Home Assistant: 
         - https://sixtymeters.duckdns.org:8123/lovelace/overview
@@ -26,6 +27,7 @@ Personal:
   - Home Lab:
     - 📶 Fritzbox: http://192.168.178.1/
     - 🛠 Proxmox: https://192.168.178.2:8006/
+    - 🦫 Yunohost: https://sixtymeters2.duckdns.org/
 Work:
   - Zühlke Global:
     - ✉️ Outlook: https://outlook.office365.com/owa/?realm=zuehlke.com

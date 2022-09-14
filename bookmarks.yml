@@ -56,7 +56,8 @@ Development Resources:
   - AI:
     - 🎨 DALL-E: https://labs.openai.com
   - Cloud:
-    - ☁️ GCP Console: https://console.cloud.google.com/
+    - ☁️ GCP Console: 
+        - https://console.cloud.google.com/
         - 👟 Cloud Run: https://console.cloud.google.com/run
         - 🧠 Compute: https://console.cloud.google.com/compute/instances
         - 💽 SQL: https://console.cloud.google.com/sql/instances

@@ -30,7 +30,7 @@ Personal:
     - 🦫 Yunohost: https://sixtymeters2.duckdns.org/
     - 🔂 Firefly Importer:
       - http://localhost:8081/
-      - Start docker & run > /Users/theo/apps/startFireflyImporter.sh
+      - Start docker & run "/Users/theo/Google Drive/apps/firefly/startFireflyImporter.sh"
 Work:
   - Zühlke Global:
     - ✉️ Outlook: https://outlook.office365.com/owa/?realm=zuehlke.com

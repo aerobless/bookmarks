@@ -24,7 +24,7 @@ jobs:
         run: |
           npm install static-marks
           mkdir build
-          ./node_modules/.bin/static-marks build *.yml > build/index.html 
+          ./node_modules/.bin/static-marks build *.yml > build/index.html --template-file template.html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3

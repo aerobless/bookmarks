@@ -18,15 +18,14 @@ Personal:
     - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
     - 🦋 Firefly: https://sixtymeters2.duckdns.org/firefly
     - 🗿 Portfolio Backtester: https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults 
-  - Home:
-    - 🤖 Home Assistant: 
-        - https://sixtymeters.duckdns.org:8123/lovelace/overview
-        - Beta Release Notes: https://rc.home-assistant.io/latest-release-notes/
-        - My documentation: https://sixtymeters.com/
-        - Nabu Casa Access: https://invoxf4r7fkpr9amj2z7z27bhh3jhlb6.ui.nabu.casa/lovelace/0
-        - Open Plantbook: https://open.plantbook.io/browse-db/
-    - 🎬 Plex: https://app.plex.tv/desktop/#!/
   - Home Lab:
+    - 🤖 Home Assistant: 
+      - https://sixtymeters.duckdns.org:8123/lovelace/overview
+      - Beta Release Notes: https://rc.home-assistant.io/latest-release-notes/
+      - My documentation: https://sixtymeters.com/
+      - Nabu Casa Access: https://invoxf4r7fkpr9amj2z7z27bhh3jhlb6.ui.nabu.casa/lovelace/0
+      - Open Plantbook: https://open.plantbook.io/browse-db/
+    - 🎬 Plex: https://app.plex.tv/desktop/#!/
     - 📶 Fritzbox: http://192.168.178.1/
     - 🛠 Proxmox: https://192.168.178.2:8006/
     - 🦫 Yunohost: https://sixtymeters2.duckdns.org/
@@ -45,6 +44,9 @@ Personal:
     - 🪐 Galaxus: https://www.galaxus.ch/
     - 📡 Digitrends: https://www.digitrends.ch/
     - 👕 Neomachi: https://neomachi.com/
+  - Discovery & News:
+    - 🏆 Product Hunt: https://www.producthunt.com/
+    - 📚 GoodBooks: https://www.goodbooks.io/
 Work:
   - Zühlke Global:
     - ✉️ Outlook: https://outlook.office365.com/owa/?realm=zuehlke.com

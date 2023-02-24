@@ -82,7 +82,7 @@ Work:
   - Resources:
     - 💡 Retromat: https://retromat.org
     - 📐 Text2Diagram (PlantUML): https://kroki.io/#try
-Development Resources:
+Resources:
   - VR:
     - 🕶 Oculus Dashboard: https://developer.oculus.com/manage/
     - 🧊 Unity Game Services: https://dashboard.unity3d.com/
@@ -100,3 +100,5 @@ Development Resources:
         - 💽 SQL: https://console.cloud.google.com/sql/instances
         - 🧯 Firewall: https://console.cloud.google.com/networking/firewalls/list
         - 💸 Billing: https://console.cloud.google.com/billing
+  - Space:
+    - 🌎 Copernicus Dataspace: https://dataspace.copernicus.eu/browser

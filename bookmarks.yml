@@ -16,7 +16,7 @@ Personal:
     - 📉 Swissquote: https://trade.swissquote.ch/
     - 📟 TIKR Terminal: https://app.tikr.com/markets?fid=1
     - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
-    - 🦋 Firefly: https://sixtymeters2.duckdns.org/firefly
+    - 🦋 Firefly: http://192.168.178.165:8115/
     - 🗿 Portfolio Backtester: https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults 
   - Home Lab:
     - 🤖 Home Assistant: 
@@ -28,7 +28,6 @@ Personal:
     - 🎬 Plex: https://app.plex.tv/desktop/#!/
     - 📶 Fritzbox: http://192.168.178.1/
     - 🛠 Proxmox: https://192.168.178.2:8006/
-    - 🦫 Yunohost: https://sixtymeters2.duckdns.org/
     - 🔂 Firefly Importer:
       - http://localhost:8081/
       - Start docker & run "/Users/theo/Google Drive/apps/firefly/startFireflyImporter.sh"

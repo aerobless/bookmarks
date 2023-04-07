@@ -31,7 +31,8 @@ Personal:
     - 🕵️‍♂️ Tautulli: http://192.168.178.160:8181/
     - 🐙 Octoprint (on-demand): http://192.168.178.57/
     - 🎨 InvokeAI (on-demand): http://192.168.178.144:9090/
-    - 🚢 Portainer: https://192.168.178.160:9443
+    - 🚢 Portainer:
+      - https://192.168.178.160:9443
       - Traefik: https://traefik.w1nter.com/dashboard/#/
     - ☢️ Duplicati: http://192.168.178.160:8050/
     - ⏱️ TimeTagger: https://timetagger.w1nter.com/timetagger/app/

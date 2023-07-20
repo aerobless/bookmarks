@@ -29,8 +29,8 @@ Personal:
     - 📶 Fritzbox: http://192.168.178.1/
     - 🛠 Proxmox: https://192.168.178.2:8006/
     - 🕵️‍♂️ Tautulli: http://192.168.178.160:8181/
-    - 🐙 Octoprint (on-demand): http://192.168.178.57/
-    - 🎨 InvokeAI (on-demand): http://192.168.178.144:9090/
+    - 🐙 Octoprint (lcl): http://192.168.178.57/
+    - 🎨 InvokeAI (lcl): http://192.168.178.144:9090/
     - 🚢 Portainer:
       - https://192.168.178.160:9443
       - Traefik: https://traefik.w1nter.com/dashboard/#/

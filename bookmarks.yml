@@ -17,7 +17,10 @@ Personal:
     - 📉 Swissquote: https://trade.swissquote.ch/
     - 📟 TIKR Terminal: https://app.tikr.com/markets?fid=1
     - 💵 Stats: https://sixtymeters.duckdns.org:8123/lovelace/finances
-    - 🦋 Firefly: https://firefly.w1nter.com/
+    - 🦋 Firefly:
+      - https://firefly.w1nter.com/
+      - Invest Report: https://firefly.w1nter.com/reports/default/281,283,624/currentYearStart/currentYearEnd
+      - Income vs. Expenses: https://firefly.w1nter.com/reports/default/1,4,5,6,7,281,283,284,286,288,624/currentYearStart/currentYearEnd
     - 🔂 Firefly Importer: https://firefly-importer.w1nter.com/
     - 🗿 Portfolio Backtester: https://www.portfoliovisualizer.com/backtest-portfolio#analysisResults 
   - Home Lab:

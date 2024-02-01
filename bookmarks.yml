@@ -90,9 +90,7 @@ Work:
     - 📐 ArchBoard: https://devexkco.atlassian.net/wiki/spaces/IAB
     - 📜 JIRA: http://jira.kessler.ch/secure/RapidBoard.jspa?rapidView=37
     - 🗃 GIT: https://git.kessler.ch/dashboard/projects/starred
-    - 🚥 Build Monitor: http://static-web-resources-dev01.kessler.ch/dev/build-monitor-desktop.html
     - 👩‍🎨 Figma: https://www.figma.com/
-    - 💬 Teams: https://teams.microsoft.com/
     - 📦 Nexus: https://nexus.kessler.ch/#browse/browse
     - 🚀 Dev01: https://misng-dev01.kessler.ch/home
     - 🦄 Storybook: https://misng-storybook-dev01.kessler.ch/
@@ -101,6 +99,7 @@ Work:
     - 👾 Dev Exchange Miro: https://miro.com/app/board/uXjVPmS13SE=/
     - 🤼‍♂️ Retro Miro: https://miro.com/app/board/uXjVPmS13Vw=/
     - 📧 FakeSMTP: https://fakesmtp-dev01.kessler.ch/
+    - 🧩 Domain Model: https://git.kessler.ch/doc/mis-documentation/-/tree/main/misng-domain-model
   - Education:
     - ▶️ Pluralsight: https://app.pluralsight.com/library
   - Resources:
